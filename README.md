@@ -1,5 +1,3 @@
-# News_Article_Topic_Clustering
-
 ## 🧠 Introduction
 
 This project focuses on analyzing large volumes of news articles to identify **cluster topics** using **PySpark MLlib** for scalable machine learning. The project also features a **Gradio-based UI** for an interactive experience. After preprocessing and model training, we achieved a **clustering accuracy of 79%**.
@@ -7,7 +5,7 @@ This project focuses on analyzing large volumes of news articles to identify **c
 ## 🧰 Prerequisites
 
 <div align="left">
-  <img alt="Gradio" src="img/gradio.png" height="70" width="70"/>
+  <img alt="Gradio" src="img/gradio.png" height="60" width="60"/>
   <img alt="Python" src="img/python.png" height="70" width="70"/>
 </div>
 
