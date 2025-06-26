@@ -1,11 +1,5 @@
 # News_Article_Topic_Clustering
 
-Here’s a professional-style **README** for your project titled **News Article Topic Clustering**, modeled after the WhatsApp-Chatbot format you shared:
-
----
-
-# News-Article-Topic-Clustering
-
 ## 🧠 Introduction
 
 This project focuses on analyzing large volumes of news articles to identify **cluster topics** using **PySpark MLlib** for scalable machine learning. The project also features a **Gradio-based UI** for an interactive experience. After preprocessing and model training, we achieved a **clustering accuracy of 79%**.
