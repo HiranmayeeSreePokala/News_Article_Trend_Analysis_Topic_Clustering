@@ -26,9 +26,7 @@ This project focuses on analyzing large volumes of news articles to identify **c
 
 ### 🔁 Data Flow:
 
-```
 News Dataset -> Preprocessing -> Feature Engineering -> Model Building -> Gradio UI
-```
 
 ## 🖥️ Gradio UI Preview
 
@@ -36,10 +34,5 @@ News Dataset -> Preprocessing -> Feature Engineering -> Model Building -> Gradio
 * Output: Displays predicted topic.
 * Purpose: To identify the article’s underlying topic and analyze trends interactively.
 
-
-## 📈 Accuracy Achieved
-
-* **Model**: Logistic Regression with TF-IDF features
-* **Accuracy**: **79%** based on internal validation
 
 
