@@ -14,19 +14,14 @@ This project focuses on analyzing large volumes of news articles to identify **c
 ## ⚙️ Workflow
 
 1. **Data Collection**:
-
    * News articles collected from online sources or datasets like Kaggle.
 2. **Data Preprocessing**:
-
    * Tokenization, stop word removal, TF-IDF vectorization using PySpark.
 3. **Model Building**:
-
    * Logistic Regression via PySpark MLlib.
 4. **Integration**:
-
    * Interactive Gradio UI for real-time article clustering and trend display.
 5. **Result**:
-
    * Achieved \~79% clustering accuracy.
 
 ### 🔁 Data Flow:
@@ -36,13 +31,6 @@ News Dataset -> Preprocessing -> Feature Engineering -> Model Building -> Gradio
 ```
 
 ---
-
-## 💻 Run the Code
-
-```bash
-you can run the code in any python environment such as google colab.
-
-```
 
 ## 🖥️ Gradio UI Preview
 
